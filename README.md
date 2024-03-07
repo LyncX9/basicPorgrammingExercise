@@ -12,3 +12,7 @@ Collaborator
 Name: Gelar Rahadian Fajar
 NIM: 20230040043
 Study Program: Informatic Engneering
+
+Name: Muhammad Rigi Yuda Syahrial
+NIM: 20230040116
+Study Program: Informatics Engineering
